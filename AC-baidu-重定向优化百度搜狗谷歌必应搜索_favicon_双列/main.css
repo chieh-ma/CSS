@@ -1,0 +1,13 @@
+/**计数器样式*/
+  div .AC-CounterT{
+    background: #ffffff;
+ /**width: 20px !important;
+    height: 20px !important;
+    line-height: 20px !important;
+    border: 2px solid black;圆边框*/
+  }
+  em.AC-CounterT{
+    color: #000000 !important;
+    font-family: '微软雅黑' !important;
+    font-size: 16px !important;
+  }
